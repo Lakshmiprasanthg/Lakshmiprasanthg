@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lakshmiprasanthg
+- 👋 Hi, I’m @Lakshmiprasanth
 - 👀 I’m interested in datascience
 - 🌱 I’m currently learning software engineering
 
