@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lakshmiprasanth
-- 👀 I’m interested in datascience
+- 👀 I’m a data analysist 
 - 🌱 I’m currently learning software engineering
 
 
