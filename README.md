@@ -73,7 +73,7 @@
 
 ## 🏆 Achievements
 
-- 🎓 B.E. Computer Science Engineering (CGPA: 7.83)
+- 🎓 B.E. Computer Science Engineering (CGPA: 8.1)
 - 💼 Completed multiple Full Stack projects
 - 📜 Certified in Web Development and Data Analytics
 - 🌟 Active contributor to coding communities
