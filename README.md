@@ -2,9 +2,9 @@
 
 ## 💫 About Me
 
-🎓 **Computer Science Engineering Student** at Adhiyamaan College of Engineering, Hosur (2021-2025)  
+🎓 **Computer Science Engineering Student** at Priyadarshini Engineering College, Vaniyambadi (2022-2026)  
 💻 **Full Stack Developer** | **Data Analyst Enthusiast**  
-🌱 Currently learning **Advanced React.js** and **Machine Learning**  
+🌱 Currently learning **Advanced React.js** and **Data visualisations tools**  
 📫 Reach me at: **lp589304@gmail.com**  
 📍 Based in **Vellore, Tamil Nadu, India**
 
